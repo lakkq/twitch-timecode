@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual env
+venv/
+venv_new/
+.env
+.venv
+
+# macOS
+.DS_Store
+
+# Secrets & local configs
+credentials.json
+twitch_config.json
+*.json.bak
+
+# Runtime data
+timestamps.txt
+
+# Build/distribution
+Готовое приложение/
+*.app
+build/
+dist/
+*.spec
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo

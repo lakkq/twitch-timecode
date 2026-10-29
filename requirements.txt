@@ -1,0 +1,6 @@
+requests
+gspread
+google-auth
+google-auth-oauthlib
+pyobjc-framework-Quartz
+pyobjc-core
