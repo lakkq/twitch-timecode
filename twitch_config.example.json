@@ -3,6 +3,6 @@
   "client_secret": "YOUR_TWITCH_CLIENT_SECRET",
   "channel": "YOUR_CHANNEL_NAME",
   "spreadsheet_id": "YOUR_GOOGLE_SHEETS_ID",
-  "hotkey": "shift+f",
+  "hotkey": "shift+`",
   "output": "timestamps.txt"
 }
